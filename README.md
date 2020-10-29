@@ -9,3 +9,4 @@ Este projeto foi desenvolvido <a href="https://www.linkedin.com/in/beatriz-range
 * Handlebars
 * HTML
 * CSS
+* SQLite
